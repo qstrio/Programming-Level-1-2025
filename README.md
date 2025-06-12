@@ -16,4 +16,4 @@ This also contains the app I developed. The wireframe and pitch deck I used duri
 
 During the semester, I learned how to code in Swift. Throughout the term, I was taught how to pt together a wireframe in Keynote. Then, I attempted to translate those ideas from Keynote into an actual app using Swift, but there was no time in the pitch for such a demonstration, so I never followed through with the idea. 
 
-![don quixote](https://media1.tenor.com/m/ZfKq6mAFOv4AAAAd/go-my-scarab-whatever-go-my-scarab.gif)
+![don quixote](https://media1.tenor.com/m/3IdMUGt4ZdIAAAAC/limbus-company-don-quixote.gif)
